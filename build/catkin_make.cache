@@ -1,0 +1,2 @@
+sensor_pkg
+-DCATKIN_DEVEL_PREFIX=/home/maria/Desktop/ThunderStuff/ThunderCarrinhos/Plugin_Projetc/devel -DCMAKE_INSTALL_PREFIX=/home/maria/Desktop/ThunderStuff/ThunderCarrinhos/Plugin_Projetc/install -G Unix Makefiles

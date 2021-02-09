@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<robot name="rover" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+<!--Incluir .gazebo e .urdf-->
+  <xacro:include filename="$(find sensor_pkg)/urdf/rover.gazebo" />
+
+  <xacro:include filename="$(find sensor_pkg)/urdf/rover.urdf" />
+
+</robot>
